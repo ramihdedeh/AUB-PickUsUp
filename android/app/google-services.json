@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "645186470981",
+    "project_id": "aub-pickusup",
+    "storage_bucket": "aub-pickusup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645186470981:android:1ea20d28e4e3d7f6f38f2c",
+        "android_client_info": {
+          "package_name": "com.example.aub_pickusup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645186470981-7pj4ap9n7vd34u74euocvl1i2a7qrjrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCy6x3z38KV22yUztkQVZ8ppy53Ihkxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645186470981-7pj4ap9n7vd34u74euocvl1i2a7qrjrt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645186470981-5nofdlrotprplr9h8qdkdrfuo36i85k8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aubPickusup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
