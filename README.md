@@ -65,6 +65,8 @@ flutter test
 - **lib/**: Contains the Dart source code.
 - **assets/**: Contains images, fonts, and other resources.
 - **test/**: Contains unit tests for the application.
+ A screenshot of a video game
 
+Description automatically generated with medium confidence
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
