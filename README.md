@@ -67,9 +67,9 @@ flutter test
 - **test/**: Contains unit tests for the application.
 
 these are some pages of the App:
-![Logo](./aub1.png)
-![Logo](./aub2.png)
-![Logo](./aub3.png)
+![Logo](aub1.png)
+![Logo](aub2.png)
+![Logo](aub3.png)
 
 
 ## License
